@@ -8,7 +8,7 @@ This project is a mini-project for SC1015 (Introduction to Data Science and AI) 
 - Chavi: Analysis, Oversampling, and Validation
 - Samriddhi: Machine Learning, Undersampling, and Classifiers
 
-Before submission, we divided our dataset into three parts. You can find the code for this process in the GitHub repository link provided below.
+Before submission, we divided our dataset into three parts. You can find the code for this process in the GitHub repository link provided below. We also added the python code and the divided python code in 3 parts, although they all need to be combined to be run- so the main credit card ipynb can be run, which has them all combined. 
 
 ## Problem Definition
 We aim to develop a machine learning model capable of accurately detecting fraudulent credit card transactions to prevent unauthorized charges and financial losses. Our primary focus is on detecting frauds rather than non-frauds, which we highlighted in sampling techniques for handling class imbalance.
@@ -33,15 +33,17 @@ We utilized the credit card fraud dataset from Kaggle, which consists of anonymi
 ## Outcome
 Achieved a high ROC-AUC score of 0.98 with logistic regression, indicating effective fraud detection. Identified key variables (V10, V12, V14, V17) contributing to model performance and explored sampling techniques and their impact on model performance.
 
+## Video:
+
 ## Insights and Recommendations
 - Addressed class imbalance through undersampling, significantly improving model performance.
 - Logistic regression demonstrated superior performance compared to other classifiers.
 - Further exploration could include outlier removal and additional sampling techniques like SMOTE.
 
 ## References
-- Kaggle: Credit Card Fraud Detection Dataset
-- Reference 1: Stack Overflow
-- Reference 2: Towards Data Science
-- Reference 3: Medium Article
-- Reference 4: Machine Learning Mastery
-- Research Paper: 2404.07356.pdf
+- Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- Reference 1: https://medium.com/@corymaklin/synthetic-minority-over-sampling-technique-smote-7d419696b88c
+- Reference 2: https://towardsdatascience.com/top-10-binary-classification-algorithms-a-beginners-guide-feeacbd7a3e2
+- Reference 3: https://stackoverflow.com/questions/66120039/undersampling-before-or-after-train-test-split
+- Reference 4: https://arxiv.org/abs/1106.1813
+- Research Paper: https://arxiv.org/abs/2404.07356
