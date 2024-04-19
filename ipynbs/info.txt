@@ -1,0 +1,1 @@
+## We've three separate files, to dissect the code, but since we do over sampling/ undersampling on our data based on the EDA, the main file-Credic Card Fraud Detection can be run as a whole, while rest are its dissections for clarity.
