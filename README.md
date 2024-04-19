@@ -8,7 +8,7 @@ This project is a mini-project for SC1015 (Introduction to Data Science and AI) 
 - Chavi: Analysis, Oversampling, and Validation
 - Samriddhi: Machine Learning, Undersampling, and Classifiers
 
-Before submission, we divided our dataset into three parts. You can find the code for this process in the GitHub repository link provided below. We also added the python code and the divided python code in 3 parts, although they all need to be combined to be run- so the main credit card ipynb can be run, which has them all combined. 
+Before submission, we divided our dataset into three parts. You can find the code for this process in the GitHub repository link provided below. Additionally, we have included the Python code and the segmented Python code in three parts. However, for seamless execution, these parts need to be consolidated into the main credit card notebook.
 
 ## Problem Definition
 We aim to develop a machine learning model capable of accurately detecting fraudulent credit card transactions to prevent unauthorized charges and financial losses. Our primary focus is on detecting frauds rather than non-frauds, which we highlighted in sampling techniques for handling class imbalance.
