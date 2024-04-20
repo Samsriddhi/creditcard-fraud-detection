@@ -33,7 +33,13 @@ We utilized the credit card fraud dataset from Kaggle, which consists of anonymi
 ## Outcome
 Achieved a high ROC-AUC score of 0.98 with logistic regression, indicating effective fraud detection. Identified key variables (V10, V12, V14, V17) contributing to model performance and explored sampling techniques and their impact on model performance.
 
-## Video:
+## Video
+
+Please note that this video has been compressed to be added here and the actual submitted version was of a much better quality.
+
+https://github.com/Samsriddhi/creditcard-fraud-detection/assets/154321347/a1270d2b-2c39-4751-ac35-f654fe9125a5
+
+
 
 ## Insights and Recommendations
 - Addressed class imbalance through undersampling, significantly improving model performance.
